@@ -524,9 +524,11 @@ syncCustomerData().catch(console.error);`}
                 <p className="text-gray-600 mb-6">
                   Test your integration in a safe environment before going live. Our developer sandbox provides a full replica of the Zifty API with test data.
                 </p>
-                <Button className="bg-blue-600 hover:bg-blue-700">
-                  Request Sandbox Access
-                </Button>
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20sandbox%20API%20access%20for%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
+                  <Button className="bg-blue-600 hover:bg-blue-700">
+                    Request Sandbox Access
+                  </Button>
+                </a>
               </div>
               {/* Commenting out curl example due to JSX syntax issues
               <div className="md:w-1/3">
@@ -648,9 +650,11 @@ syncCustomerData().catch(console.error);`}
                   </div>
                 </div>
               </div>
-              <Button className="bg-blue-600 hover:bg-blue-700">
-                Contact Integration Team
-              </Button>
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20the%20integration%20team%20about%20implementing%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
+                <Button className="bg-blue-600 hover:bg-blue-700">
+                  Contact Integration Team
+                </Button>
+              </a>
             </div>
             <div className="md:w-1/2">
               <div className="bg-gray-50 rounded-xl p-6 shadow-sm">
@@ -704,7 +708,7 @@ syncCustomerData().catch(console.error);`}
             Get started today and transform your customer communication with AI-powered conversations that leverage your enterprise data.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+            <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
               Request API Access
             </Button>
             <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">

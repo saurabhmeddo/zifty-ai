@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Button } from '../components/ui/button';
 
 const Blog: React.FC = () => {
@@ -52,9 +53,11 @@ const Blog: React.FC = () => {
                     <p className="text-gray-500 text-sm">Chief AI Officer</p>
                   </div>
                 </div>
-                <Button className="mt-6 bg-blue-600 hover:bg-blue-700">
-                  Read Article
-                </Button>
+                <Link to="/blog/future-of-ai-communication">
+                  <Button className="mt-6 bg-blue-600 hover:bg-blue-700">
+                    Read Article
+                  </Button>
+                </Link>
               </div>
             </div>
           </div>
@@ -67,15 +70,17 @@ const Blog: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center mb-12">
             <h2 className="text-3xl font-bold">Latest Articles</h2>
             <div className="mt-4 md:mt-0">
-              <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
-                View All Articles
-              </Button>
+              <Link to="/blog/all">
+                <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
+                  View All Articles
+                </Button>
+              </Link>
             </div>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Article 1 */}
-            <div className="bg-white rounded-xl overflow-hidden shadow-sm">
+            <Link to="/blog/customer-support-ai" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow block">
               <div className="h-48 bg-gray-200">
                 <img 
                   src="/blog-1.jpg" 
@@ -100,10 +105,10 @@ const Blog: React.FC = () => {
                   </svg>
                 </div>
               </div>
-            </div>
+            </Link>
 
             {/* Article 2 */}
-            <div className="bg-white rounded-xl overflow-hidden shadow-sm">
+            <Link to="/blog/integrating-ai-legacy-systems" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow block">
               <div className="h-48 bg-gray-200">
                 <img 
                   src="/blog-2.jpg" 
@@ -128,10 +133,10 @@ const Blog: React.FC = () => {
                   </svg>
                 </div>
               </div>
-            </div>
+            </Link>
 
             {/* Article 3 */}
-            <div className="bg-white rounded-xl overflow-hidden shadow-sm">
+            <Link to="/blog/roi-ai-communication" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow block">
               <div className="h-48 bg-gray-200">
                 <img 
                   src="/blog-3.jpg" 
@@ -156,7 +161,7 @@ const Blog: React.FC = () => {
                   </svg>
                 </div>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </section>
@@ -174,10 +179,12 @@ const Blog: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">Customer Support</h3>
-              <p className="text-gray-600 mb-4">12 articles</p>
-              <Button variant="outline" className="w-full border-blue-600 text-blue-600 hover:bg-blue-50">
-                View Articles
-              </Button>
+              <p className="text-gray-600 mb-4">7 articles</p>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-blue-600 text-blue-600 hover:bg-blue-50">
+                  View Articles
+                </Button>
+              </Link>
             </div>
 
             <div className="bg-purple-50 rounded-xl p-6 text-center hover:shadow-md transition-shadow">
@@ -188,10 +195,12 @@ const Blog: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">Integration</h3>
-              <p className="text-gray-600 mb-4">8 articles</p>
-              <Button variant="outline" className="w-full border-purple-600 text-purple-600 hover:bg-purple-50">
-                View Articles
-              </Button>
+              <p className="text-gray-600 mb-4">6 articles</p>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-purple-600 text-purple-600 hover:bg-purple-50">
+                  View Articles
+                </Button>
+              </Link>
             </div>
 
             <div className="bg-green-50 rounded-xl p-6 text-center hover:shadow-md transition-shadow">
@@ -201,10 +210,12 @@ const Blog: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">AI Technology</h3>
-              <p className="text-gray-600 mb-4">15 articles</p>
-              <Button variant="outline" className="w-full border-green-600 text-green-600 hover:bg-green-50">
-                View Articles
-              </Button>
+              <p className="text-gray-600 mb-4">8 articles</p>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-green-600 text-green-600 hover:bg-green-50">
+                  View Articles
+                </Button>
+              </Link>
             </div>
 
             <div className="bg-yellow-50 rounded-xl p-6 text-center hover:shadow-md transition-shadow">
@@ -215,10 +226,12 @@ const Blog: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">Business</h3>
-              <p className="text-gray-600 mb-4">10 articles</p>
-              <Button variant="outline" className="w-full border-yellow-600 text-yellow-600 hover:bg-yellow-50">
-                View Articles
-              </Button>
+              <p className="text-gray-600 mb-4">4 articles</p>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-yellow-600 text-yellow-600 hover:bg-yellow-50">
+                  View Articles
+                </Button>
+              </Link>
             </div>
           </div>
         </div>
@@ -230,15 +243,17 @@ const Blog: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center mb-12">
             <h2 className="text-3xl font-bold">Case Studies</h2>
             <div className="mt-4 md:mt-0">
-              <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
-                View All Case Studies
-              </Button>
+              <Link to="/case-studies">
+                <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
+                  View All Case Studies
+                </Button>
+              </Link>
             </div>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Case Study 1 */}
-            <div className="bg-white rounded-xl overflow-hidden shadow-sm">
+            <Link to="/case-studies" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow block">
               <div className="h-48 bg-gray-200">
                 <img 
                   src="/case-study-1.jpg" 
@@ -262,10 +277,10 @@ const Blog: React.FC = () => {
                   </svg>
                 </div>
               </div>
-            </div>
+            </Link>
 
             {/* Case Study 2 */}
-            <div className="bg-white rounded-xl overflow-hidden shadow-sm">
+            <Link to="/case-studies" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow block">
               <div className="h-48 bg-gray-200">
                 <img 
                   src="/case-study-2.jpg" 
@@ -289,7 +304,7 @@ const Blog: React.FC = () => {
                   </svg>
                 </div>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </section>
@@ -315,9 +330,11 @@ const Blog: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 In-depth research and analysis on AI communication trends, technologies, and best practices.
               </p>
-              <Button variant="outline" className="w-full border-blue-600 text-blue-600 hover:bg-blue-50">
-                Browse Whitepapers
-              </Button>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-blue-600 text-blue-600 hover:bg-blue-50">
+                  Browse Whitepapers
+                </Button>
+              </Link>
             </div>
 
             {/* Resource 2 */}
@@ -332,9 +349,11 @@ const Blog: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 Live and on-demand webinars featuring industry experts discussing AI communication strategies.
               </p>
-              <Button variant="outline" className="w-full border-purple-600 text-purple-600 hover:bg-purple-50">
-                Watch Webinars
-              </Button>
+              <Link to="/blog/all">
+                <Button variant="outline" className="w-full border-purple-600 text-purple-600 hover:bg-purple-50">
+                  Watch Webinars
+                </Button>
+              </Link>
             </div>
 
             {/* Resource 3 */}
@@ -349,9 +368,11 @@ const Blog: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 Step-by-step guides and tutorials on implementing and optimizing AI communication solutions.
               </p>
-              <Button variant="outline" className="w-full border-green-600 text-green-600 hover:bg-green-50">
-                Explore Guides
-              </Button>
+              <Link to="/docs">
+                <Button variant="outline" className="w-full border-green-600 text-green-600 hover:bg-green-50">
+                  Explore Guides
+                </Button>
+              </Link>
             </div>
           </div>
         </div>
@@ -365,15 +386,12 @@ const Blog: React.FC = () => {
             <p className="text-lg mb-8 max-w-2xl mx-auto">
               Stay updated with the latest insights, trends, and best practices in AI communication and customer experience.
             </p>
-            <div className="flex flex-col md:flex-row gap-4 max-w-lg mx-auto">
-              <input 
-                type="email" 
-                placeholder="Enter your email" 
-                className="px-4 py-3 rounded-lg flex-grow text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
-              <Button className="bg-white text-blue-600 hover:bg-gray-100">
-                Subscribe
-              </Button>
+            <div className="max-w-lg mx-auto">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20subscribe%20to%20the%20Zifty%20newsletter%20to%20stay%20updated%20with%20AI%20communication%20insights." target="_blank" rel="noopener noreferrer">
+                <Button variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
+                  Subscribe via WhatsApp
+                </Button>
+              </a>
             </div>
           </div>
         </div>

@@ -614,9 +614,11 @@ fetch('https://api.zifty.com/v1/conversation', {
           </div>
 
           <div className="text-center mt-12">
-            <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
-              Request Live Demo
-            </Button>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20a%20live%20demo%20of%20Zifty.%20I%27m%20from%20the%20product%20page." target="_blank" rel="noopener noreferrer">
+              <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+                Request Live Demo
+              </Button>
+            </a>
           </div>
         </div>
       </section>
@@ -629,7 +631,7 @@ fetch('https://api.zifty.com/v1/conversation', {
             Join the businesses that are using Zifty to provide exceptional customer experiences through AI-powered communication.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+            <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
               Request Demo
             </Button>
             <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">

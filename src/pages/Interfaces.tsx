@@ -98,9 +98,15 @@ const Interfaces: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <Button className="bg-blue-600 hover:bg-blue-700">
-                Learn More About WhatsApp Integration
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20WhatsApp%20Integration%20for%20my%20business.%20Can%20you%20provide%20more%20details%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-blue-600 hover:bg-blue-700">
+                  Learn More About WhatsApp Integration
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -177,9 +183,15 @@ const Interfaces: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <Button className="bg-purple-600 hover:bg-purple-700">
-                Learn More About In-App Chat
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20In-App%20Chat%20functionality.%20Can%20you%20provide%20more%20information%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-purple-600 hover:bg-purple-700">
+                  Learn More About In-App Chat
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -255,9 +267,15 @@ const Interfaces: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <Button className="bg-green-600 hover:bg-green-700">
-                Learn More About Website Chat
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Website%20Chat%20widget.%20Can%20you%20share%20more%20details%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-green-600 hover:bg-green-700">
+                  Learn More About Website Chat
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -332,9 +350,15 @@ const Interfaces: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <Button className="bg-yellow-600 hover:bg-yellow-700">
-                Learn More About Voice Communication
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Voice%20Communication%20features.%20Can%20you%20provide%20more%20information%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-yellow-600 hover:bg-yellow-700">
+                  Learn More About Voice Communication
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -396,9 +420,15 @@ const Interfaces: React.FC = () => {
                   <span className="text-gray-700">Call transcription and sentiment analysis</span>
                 </li>
               </ul>
-              <Button className="bg-red-600 hover:bg-red-700">
-                Learn More About Inbound Calls
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Inbound%20Call%20handling%20capabilities.%20Can%20you%20share%20more%20details%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-red-600 hover:bg-red-700">
+                  Learn More About Inbound Calls
+                </Button>
+              </a>
             </div>
 
             {/* Outbound Calls */}
@@ -446,9 +476,15 @@ const Interfaces: React.FC = () => {
                   <span className="text-gray-700">Real-time analytics and campaign performance tracking</span>
                 </li>
               </ul>
-              <Button className="bg-indigo-600 hover:bg-indigo-700">
-                Learn More About Outbound Calls
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Outbound%20Call%20solutions.%20Can%20you%20provide%20more%20information%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-indigo-600 hover:bg-indigo-700">
+                  Learn More About Outbound Calls
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -513,9 +549,15 @@ const Interfaces: React.FC = () => {
                   </div>
                 </div>
               </div>
-              <Button className="bg-blue-600 hover:bg-blue-700">
-                Learn More About Omnichannel Capabilities
-              </Button>
+              <a 
+                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Omnichannel%20Capabilities.%20Can%20you%20share%20more%20details%3F"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button className="bg-blue-600 hover:bg-blue-700">
+                  Learn More About Omnichannel Capabilities
+                </Button>
+              </a>
             </div>
             <div className="md:w-1/2">
               <div className="bg-white rounded-xl p-6 shadow-sm">
@@ -598,7 +640,7 @@ const Interfaces: React.FC = () => {
             Join the businesses that are using Zifty to provide exceptional customer experiences through AI-powered communication.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+            <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
               Request Demo
             </Button>
             <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">

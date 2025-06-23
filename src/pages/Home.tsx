@@ -16,12 +16,16 @@ const Home: React.FC = () => {
                 Zifty enables any legacy or SaaS solution with intelligent AI communication bots. Connect with customers through chat, voice, and calls - all integrated seamlessly with your existing systems.
               </p>
               <div className="flex flex-wrap gap-4">
-                <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-                  Request Demo
-                </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
-                  Learn More
-                </Button>
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20a%20demo%20of%20Zifty.%20I%27m%20from%20the%20home%20page." target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
+                    Request Demo
+                  </Button>
+                </a>
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%20want%20to%20learn%20more%20about%20Zifty%20AI%20Communication%20Platform.%20Coming%20from%20Zifty%20website%20home%20page." target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                    Learn More
+                  </Button>
+                </a>
               </div>
             </div>
             <div className="md:w-1/2">
@@ -507,12 +511,16 @@ channel.onMessage(async (message) => {
             Join the businesses that are using Zifty to provide exceptional customer experiences through AI-powered communication.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-              Request Demo
-            </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
-              Contact Sales
-            </Button>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20a%20demo%20of%20Zifty.%20I%27m%20from%20the%20home%20page%20CTA%20section." target="_blank" rel="noopener noreferrer">
+              <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
+                Request Demo
+              </Button>
+            </a>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20sales%20about%20Zifty%20solutions.%20I%27m%20from%20the%20home%20page." target="_blank" rel="noopener noreferrer">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                Contact Sales
+              </Button>
+            </a>
           </div>
         </div>
       </section>

@@ -7,7 +7,45 @@ import Interfaces from './pages/Interfaces';
 import Integration from './pages/Integration';
 import Pricing from './pages/Pricing';
 import Blog from './pages/Blog';
-import Contact from './pages/Contact';
+import Documentation from './pages/docs/Documentation';
+import GettingStarted from './pages/docs/GettingStarted';
+import ApiDocs from './pages/docs/ApiDocs';
+import IntegrationGuide from './pages/docs/IntegrationGuide';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import Terms from './pages/Terms';
+import CookiePolicy from './pages/CookiePolicy';
+import About from './pages/About';
+import Careers from './pages/Careers';
+import CaseStudies from './pages/CaseStudies';
+import Help from './pages/Help';
+import CustomerSupportAI from './pages/blog/CustomerSupportAI';
+import IntegratingAILegacySystems from './pages/blog/IntegratingAILegacySystems';
+import ROIAICommunication from './pages/blog/ROIAICommunication';
+import FutureOfAICommunication from './pages/blog/FutureOfAICommunication';
+import AllArticles from './pages/blog/AllArticles';
+import WhatsAppBusinessAPI from './pages/blog/WhatsAppBusinessAPI';
+import OmnichannelStrategy from './pages/blog/OmnichannelStrategy';
+import AIChatbotBestPractices from './pages/blog/AIChatbotBestPractices';
+import CustomerDataPrivacy from './pages/blog/CustomerDataPrivacy';
+import GlobalBankCorp from './pages/casestudies/GlobalBankCorp';
+import HealthFirstClinic from './pages/casestudies/HealthFirstClinic';
+import ShopSmart from './pages/casestudies/ShopSmart';
+import ReducingCustomerChurn from './pages/blog/ReducingCustomerChurn';
+import PsychologyOfAI from './pages/blog/PsychologyOfAI';
+import AIFirstResponseTime from './pages/blog/AIFirstResponseTime';
+import AI247Availability from './pages/blog/AI247Availability';
+import MultilingualSupport from './pages/blog/MultilingualSupport';
+import IntegratingWhatsAppCRM from './pages/blog/IntegratingWhatsAppCRM';
+import NLPCustomerService from './pages/blog/NLPCustomerService';
+import ScalingSupportOperations from './pages/blog/ScalingSupportOperations';
+import PersonalizedCustomerJourneys from './pages/blog/PersonalizedCustomerJourneys';
+import APIFirstStrategy from './pages/blog/APIFirstStrategy';
+import ConversationalAIDesign from './pages/blog/ConversationalAIDesign';
+import WebhooksRealTime from './pages/blog/WebhooksRealTime';
+import AIEthicsCustomerService from './pages/blog/AIEthicsCustomerService';
+import CustomerSupportKPIs from './pages/blog/CustomerSupportKPIs';
+import CloudMigrationStrategy from './pages/blog/CloudMigrationStrategy';
+import VoiceAIFuture from './pages/blog/VoiceAIFuture';
 import './App.css';
 
 const App: React.FC = () => {
@@ -34,10 +72,10 @@ const App: React.FC = () => {
                 <Link to="/integration" className="text-gray-700 hover:text-blue-600 transition-colors">Integration</Link>
                 <Link to="/pricing" className="text-gray-700 hover:text-blue-600 transition-colors">Pricing</Link>
                 <Link to="/blog" className="text-gray-700 hover:text-blue-600 transition-colors">Blog</Link>
-                <Link to="/contact" className="text-gray-700 hover:text-blue-600 transition-colors">Contact</Link>
+                <Link to="/docs" className="text-gray-700 hover:text-blue-600 transition-colors">Documentation</Link>
               </nav>
               <div className="hidden md:flex items-center space-x-4">
-                <Link to="/contact" className="px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors">Get Started</Link>
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20website%20header." target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors">Get Started</a>
               </div>
               <div className="md:hidden">
                 <button 
@@ -64,8 +102,8 @@ const App: React.FC = () => {
               <Link to="/integration" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Integration</Link>
               <Link to="/pricing" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Pricing</Link>
               <Link to="/blog" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Blog</Link>
-              <Link to="/contact" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Contact</Link>
-              <Link to="/contact" className="block px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors text-center mt-4" onClick={() => setMobileMenuOpen(false)}>Get Started</Link>
+              <Link to="/docs" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Documentation</Link>
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20mobile%20menu." target="_blank" rel="noopener noreferrer" className="block px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors text-center mt-4" onClick={() => setMobileMenuOpen(false)}>Get Started</a>
             </div>
           </div>
         </header>
@@ -80,7 +118,45 @@ const App: React.FC = () => {
             <Route path="/integration" element={<Integration />} />
             <Route path="/pricing" element={<Pricing />} />
             <Route path="/blog" element={<Blog />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/docs" element={<Documentation />} />
+            <Route path="/docs/getting-started" element={<GettingStarted />} />
+            <Route path="/docs/api" element={<ApiDocs />} />
+            <Route path="/docs/integration-guide" element={<IntegrationGuide />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/terms" element={<Terms />} />
+            <Route path="/cookies" element={<CookiePolicy />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/careers" element={<Careers />} />
+            <Route path="/case-studies" element={<CaseStudies />} />
+            <Route path="/help" element={<Help />} />
+            <Route path="/blog/customer-support-ai" element={<CustomerSupportAI />} />
+            <Route path="/blog/integrating-ai-legacy-systems" element={<IntegratingAILegacySystems />} />
+            <Route path="/blog/roi-ai-communication" element={<ROIAICommunication />} />
+            <Route path="/blog/future-of-ai-communication" element={<FutureOfAICommunication />} />
+            <Route path="/blog/whatsapp-business-api" element={<WhatsAppBusinessAPI />} />
+            <Route path="/blog/omnichannel-strategy" element={<OmnichannelStrategy />} />
+            <Route path="/blog/ai-chatbot-best-practices" element={<AIChatbotBestPractices />} />
+            <Route path="/blog/customer-data-privacy" element={<CustomerDataPrivacy />} />
+            <Route path="/blog/all" element={<AllArticles />} />
+            <Route path="/case-studies/global-bank-corp" element={<GlobalBankCorp />} />
+            <Route path="/case-studies/healthfirst-clinic" element={<HealthFirstClinic />} />
+            <Route path="/case-studies/shopsmart" element={<ShopSmart />} />
+            <Route path="/blog/reducing-customer-churn" element={<ReducingCustomerChurn />} />
+            <Route path="/blog/psychology-of-ai" element={<PsychologyOfAI />} />
+            <Route path="/blog/ai-first-response-time" element={<AIFirstResponseTime />} />
+            <Route path="/blog/24-7-availability" element={<AI247Availability />} />
+            <Route path="/blog/multilingual-support" element={<MultilingualSupport />} />
+            <Route path="/blog/integrating-whatsapp-crm" element={<IntegratingWhatsAppCRM />} />
+            <Route path="/blog/nlp-customer-service" element={<NLPCustomerService />} />
+            <Route path="/blog/scaling-support-operations" element={<ScalingSupportOperations />} />
+            <Route path="/blog/personalized-customer-journeys" element={<PersonalizedCustomerJourneys />} />
+            <Route path="/blog/api-first-strategy" element={<APIFirstStrategy />} />
+            <Route path="/blog/conversational-ai-design" element={<ConversationalAIDesign />} />
+            <Route path="/blog/webhooks-real-time" element={<WebhooksRealTime />} />
+            <Route path="/blog/ai-ethics-customer-service" element={<AIEthicsCustomerService />} />
+            <Route path="/blog/customer-support-kpis" element={<CustomerSupportKPIs />} />
+            <Route path="/blog/cloud-migration-strategy" element={<CloudMigrationStrategy />} />
+            <Route path="/blog/voice-ai-future" element={<VoiceAIFuture />} />
           </Routes>
         </main>
 
@@ -128,19 +204,19 @@ const App: React.FC = () => {
                 <h3 className="text-lg font-semibold mb-4">Resources</h3>
                 <ul className="space-y-2">
                   <li><Link to="/blog" className="text-gray-400 hover:text-white transition-colors">Blog</Link></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Case Studies</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Help Center</a></li>
+                  <li><Link to="/docs" className="text-gray-400 hover:text-white transition-colors">Documentation</Link></li>
+                  <li><Link to="/case-studies" className="text-gray-400 hover:text-white transition-colors">Case Studies</Link></li>
+                  <li><Link to="/help" className="text-gray-400 hover:text-white transition-colors">Help Center</Link></li>
                 </ul>
               </div>
               
               <div>
                 <h3 className="text-lg font-semibold mb-4">Company</h3>
                 <ul className="space-y-2">
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">About Us</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Careers</a></li>
-                  <li><Link to="/contact" className="text-gray-400 hover:text-white transition-colors">Contact</Link></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a></li>
+                  <li><Link to="/about" className="text-gray-400 hover:text-white transition-colors">About Us</Link></li>
+                  <li><Link to="/careers" className="text-gray-400 hover:text-white transition-colors">Careers</Link></li>
+                  <li><a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20get%20in%20touch%20with%20Zifty.%20I%20clicked%20Contact%20from%20the%20footer." target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                  <li><Link to="/privacy-policy" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</Link></li>
                 </ul>
               </div>
             </div>
@@ -149,9 +225,9 @@ const App: React.FC = () => {
               <p className="text-gray-400">© 2025 Zifty. All rights reserved.</p>
               <div className="mt-4 md:mt-0">
                 <ul className="flex space-x-6">
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Terms</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Cookies</a></li>
+                  <li><Link to="/terms" className="text-gray-400 hover:text-white transition-colors">Terms</Link></li>
+                  <li><Link to="/privacy-policy" className="text-gray-400 hover:text-white transition-colors">Privacy</Link></li>
+                  <li><Link to="/cookies" className="text-gray-400 hover:text-white transition-colors">Cookies</Link></li>
                 </ul>
               </div>
             </div>

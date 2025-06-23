@@ -77,13 +77,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Patient intake and triage</span>
                 </li>
               </ul>
-              <div className="flex items-center text-blue-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Healthcare%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-blue-600 hover:text-blue-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
 
             {/* Financial Services */}
@@ -124,13 +124,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Financial product recommendations</span>
                 </li>
               </ul>
-              <div className="flex items-center text-green-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Financial%20Services%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-green-600 hover:text-green-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
 
             {/* Retail & E-commerce */}
@@ -172,13 +172,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Return and exchange processing</span>
                 </li>
               </ul>
-              <div className="flex items-center text-purple-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Retail%20%26%20E-commerce%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-purple-600 hover:text-purple-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
 
             {/* Travel & Hospitality */}
@@ -221,13 +221,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Local recommendations and concierge</span>
                 </li>
               </ul>
-              <div className="flex items-center text-yellow-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Travel%20%26%20Hospitality%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-yellow-600 hover:text-yellow-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
 
             {/* Real Estate */}
@@ -268,13 +268,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Document collection and processing</span>
                 </li>
               </ul>
-              <div className="flex items-center text-red-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Real%20Estate%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-red-600 hover:text-red-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
 
             {/* Education */}
@@ -315,13 +315,13 @@ const Solutions: React.FC = () => {
                   <span className="text-gray-700">Student services and information</span>
                 </li>
               </ul>
-              <div className="flex items-center text-indigo-600">
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20Education%20solutions" target="_blank" rel="noopener noreferrer" className="flex items-center text-indigo-600 hover:text-indigo-700">
                 <span>Learn more</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
                   <polyline points="12 5 19 12 12 19"></polyline>
                 </svg>
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -380,9 +380,11 @@ const Solutions: React.FC = () => {
                     </div>
                   </div>
                   <div className="mt-6">
-                    <Button className="bg-blue-600 hover:bg-blue-700">
-                      Explore Customer Support Solutions
-                    </Button>
+                    <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Customer%20Support%20Solutions" target="_blank" rel="noopener noreferrer">
+                      <Button className="bg-blue-600 hover:bg-blue-700">
+                        Explore Customer Support Solutions
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -431,9 +433,11 @@ const Solutions: React.FC = () => {
                     </div>
                   </div>
                   <div className="mt-6">
-                    <Button className="bg-purple-600 hover:bg-purple-700">
-                      Explore Sales Automation Solutions
-                    </Button>
+                    <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Sales%20Automation%20Solutions" target="_blank" rel="noopener noreferrer">
+                      <Button className="bg-purple-600 hover:bg-purple-700">
+                        Explore Sales Automation Solutions
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -484,9 +488,11 @@ const Solutions: React.FC = () => {
                     </div>
                   </div>
                   <div className="mt-6">
-                    <Button className="bg-green-600 hover:bg-green-700">
-                      Explore Appointment Booking Solutions
-                    </Button>
+                    <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Appointment%20Booking%20Solutions" target="_blank" rel="noopener noreferrer">
+                      <Button className="bg-green-600 hover:bg-green-700">
+                        Explore Appointment Booking Solutions
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -535,9 +541,11 @@ const Solutions: React.FC = () => {
                     </div>
                   </div>
                   <div className="mt-6">
-                    <Button className="bg-yellow-600 hover:bg-yellow-700">
-                      Explore Lead Qualification Solutions
-                    </Button>
+                    <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Lead%20Qualification%20Solutions" target="_blank" rel="noopener noreferrer">
+                      <Button className="bg-yellow-600 hover:bg-yellow-700">
+                        Explore Lead Qualification Solutions
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -574,13 +582,13 @@ const Solutions: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   HealthFirst implemented Zifty's appointment booking and reminder system, resulting in a significant reduction in missed appointments and improved patient satisfaction.
                 </p>
-                <div className="flex items-center text-blue-600">
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20read%20the%20HealthFirst%20Clinic%20case%20study" target="_blank" rel="noopener noreferrer" className="flex items-center text-blue-600 hover:text-blue-700">
                   <span>Read case study</span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
                     <polyline points="12 5 19 12 12 19"></polyline>
                   </svg>
-                </div>
+                </a>
               </div>
             </div>
 
@@ -601,13 +609,13 @@ const Solutions: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   By implementing Zifty's AI communication platform, Global Bank automated routine inquiries and reduced wait times, leading to higher customer satisfaction scores.
                 </p>
-                <div className="flex items-center text-green-600">
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20read%20the%20Global%20Bank%20case%20study" target="_blank" rel="noopener noreferrer" className="flex items-center text-green-600 hover:text-green-700">
                   <span>Read case study</span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
                     <polyline points="12 5 19 12 12 19"></polyline>
                   </svg>
-                </div>
+                </a>
               </div>
             </div>
 
@@ -628,13 +636,13 @@ const Solutions: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   ShopSmart implemented Zifty's sales automation solution to engage website visitors, resulting in higher conversion rates and increased average order value.
                 </p>
-                <div className="flex items-center text-purple-600">
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20read%20the%20ShopSmart%20case%20study" target="_blank" rel="noopener noreferrer" className="flex items-center text-purple-600 hover:text-purple-700">
                   <span>Read case study</span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
                     <polyline points="12 5 19 12 12 19"></polyline>
                   </svg>
-                </div>
+                </a>
               </div>
             </div>
 
@@ -655,21 +663,23 @@ const Solutions: React.FC = () => {
                 <p className="text-gray-600 mb-4">
                   Metro University deployed Zifty to handle admissions inquiries and application support, resulting in a 50% reduction in processing time and improved applicant experience.
                 </p>
-                <div className="flex items-center text-indigo-600">
+                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20read%20the%20Metro%20University%20case%20study" target="_blank" rel="noopener noreferrer" className="flex items-center text-indigo-600 hover:text-indigo-700">
                   <span>Read case study</span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
                     <polyline points="12 5 19 12 12 19"></polyline>
                   </svg>
-                </div>
+                </a>
               </div>
             </div>
           </div>
 
           <div className="text-center mt-12">
-            <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
-              View All Case Studies
-            </Button>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%27s%20case%20studies%20and%20success%20stories" target="_blank" rel="noopener noreferrer">
+              <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+                View All Case Studies
+              </Button>
+            </a>
           </div>
         </div>
       </section>
@@ -736,9 +746,11 @@ const Solutions: React.FC = () => {
                   </div>
                 </li>
               </ul>
-              <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
-                Request Custom Solution
-              </Button>
+              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20discussing%20a%20custom%20enterprise%20solution%20for%20my%20business" target="_blank" rel="noopener noreferrer">
+                <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+                  Request Custom Solution
+                </Button>
+              </a>
             </div>
             <div className="md:w-1/2">
               <div className="bg-white rounded-xl p-6 shadow-lg">
@@ -761,12 +773,16 @@ const Solutions: React.FC = () => {
             Join the businesses that are using Zifty to provide exceptional customer experiences through AI-powered communication.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-              Request Demo
-            </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
-              Contact Sales
-            </Button>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20a%20demo%20of%20Zifty%27s%20AI%20communication%20platform" target="_blank" rel="noopener noreferrer">
+              <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
+                Request Demo
+              </Button>
+            </a>
+            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20your%20sales%20team%20about%20Zifty%27s%20solutions" target="_blank" rel="noopener noreferrer">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                Contact Sales
+              </Button>
+            </a>
           </div>
         </div>
       </section>
