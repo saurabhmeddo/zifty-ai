@@ -74,7 +74,7 @@ const Pricing: React.FC = () => {
                   <span className="text-gray-700">Basic analytics</span>
                 </div>
               </div>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20the%20Starter%20plan%20%28%24499%2Fmonth%29%20for%20Zifty.%20Please%20provide%20more%20information." target="_blank" rel="noopener noreferrer" className="block">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20the%20Starter%20plan%20%28%24499%2Fmonth%29%20for%20Zifty.%20Please%20provide%20more%20information." target="_blank" rel="noopener noreferrer" className="block">
                 <Button className="w-full bg-blue-600 hover:bg-blue-700">
                   Get Started
                 </Button>
@@ -144,7 +144,7 @@ const Pricing: React.FC = () => {
                   <span className="text-gray-700">Custom conversation flows</span>
                 </div>
               </div>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20the%20Professional%20plan%20%28%241%2C499%2Fmonth%29%20for%20Zifty.%20Please%20provide%20more%20information." target="_blank" rel="noopener noreferrer" className="block">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20the%20Professional%20plan%20%28%241%2C499%2Fmonth%29%20for%20Zifty.%20Please%20provide%20more%20information." target="_blank" rel="noopener noreferrer" className="block">
                 <Button className="w-full bg-blue-600 hover:bg-blue-700">
                   Get Started
                 </Button>
@@ -218,7 +218,7 @@ const Pricing: React.FC = () => {
                   <span className="text-gray-700">On-premise deployment options</span>
                 </div>
               </div>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20the%20Enterprise%20plan%20for%20Zifty.%20I%20need%20a%20custom%20quote%20for%20my%20organization." target="_blank" rel="noopener noreferrer" className="block">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20the%20Enterprise%20plan%20for%20Zifty.%20I%20need%20a%20custom%20quote%20for%20my%20organization." target="_blank" rel="noopener noreferrer" className="block">
                 <Button className="w-full bg-blue-600 hover:bg-blue-700">
                   Contact Sales
                 </Button>
@@ -550,12 +550,12 @@ const Pricing: React.FC = () => {
             Start your 14-day free trial today. No credit card required.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20start%20a%2014-day%20free%20trial%20of%20Zifty.%20Please%20help%20me%20get%20started." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20start%20a%2014-day%20free%20trial%20of%20Zifty.%20Please%20help%20me%20get%20started." target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
                 Start Free Trial
               </Button>
             </a>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20your%20sales%20team%20about%20Zifty%27s%20pricing%20and%20plans." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20your%20sales%20team%20about%20Zifty%27s%20pricing%20and%20plans." target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
                 Contact Sales
               </Button>

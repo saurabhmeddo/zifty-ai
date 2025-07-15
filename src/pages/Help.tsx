@@ -58,7 +58,7 @@ const Help: React.FC = () => {
               <p className="text-gray-600">Complete API reference with examples and best practices.</p>
             </Link>
 
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20help%20with%20my%20Zifty%20account%20management." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20help%20with%20my%20Zifty%20account%20management." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
               <div className="bg-green-100 text-green-600 p-3 rounded-full w-12 h-12 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
@@ -81,7 +81,7 @@ const Help: React.FC = () => {
               <p className="text-gray-600">Connect Zifty with your existing tools and platforms.</p>
             </Link>
 
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20experiencing%20technical%20issues%20with%20Zifty%20and%20need%20help%20troubleshooting." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20experiencing%20technical%20issues%20with%20Zifty%20and%20need%20help%20troubleshooting." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
               <div className="bg-red-100 text-red-600 p-3 rounded-full w-12 h-12 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
@@ -93,7 +93,7 @@ const Help: React.FC = () => {
               <p className="text-gray-600">Solutions to common issues and error messages.</p>
             </a>
 
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%20have%20questions%20about%20Zifty%27s%20security%20and%20compliance%20features." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%20have%20questions%20about%20Zifty%27s%20security%20and%20compliance%20features." target="_blank" rel="noopener noreferrer" className="bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow">
               <div className="bg-indigo-100 text-indigo-600 p-3 rounded-full w-12 h-12 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <rect x="3" y="11" width="18" height="10" rx="2" ry="2"></rect>
@@ -151,7 +151,7 @@ const Help: React.FC = () => {
 
           <div className="text-center mt-12">
             <p className="text-gray-600 mb-4">Can't find what you're looking for?</p>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%20couldn%27t%20find%20the%20answer%20to%20my%20question%20in%20the%20help%20center." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%20couldn%27t%20find%20the%20answer%20to%20my%20question%20in%20the%20help%20center." target="_blank" rel="noopener noreferrer">
               <Button className="bg-blue-600 hover:bg-blue-700">
                 Contact Support
               </Button>
@@ -202,7 +202,7 @@ const Help: React.FC = () => {
               </div>
               <h3 className="text-xl font-semibold mb-3">Community</h3>
               <p className="text-gray-600 mb-4">Connect with other Zifty users.</p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20join%20the%20Zifty%20community." target="_blank" rel="noopener noreferrer" className="text-green-600 hover:text-green-700 font-medium">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20join%20the%20Zifty%20community." target="_blank" rel="noopener noreferrer" className="text-green-600 hover:text-green-700 font-medium">
                 Join Community →
               </a>
             </div>
@@ -245,7 +245,7 @@ const Help: React.FC = () => {
           </div>
           
           <div className="mt-8">
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20help%20with%20Zifty." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20help%20with%20Zifty." target="_blank" rel="noopener noreferrer">
               <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
                 Contact Support Now
               </Button>

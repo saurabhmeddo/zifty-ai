@@ -38,7 +38,7 @@ const GettingStarted: React.FC = () => {
                 4. Access your dashboard
               </p>
             </div>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20create%20a%20Zifty%20account%20to%20get%20started." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20create%20a%20Zifty%20account%20to%20get%20started." target="_blank" rel="noopener noreferrer">
               <Button className="bg-blue-600 hover:bg-blue-700">
                 Create Account
               </Button>
@@ -176,14 +176,14 @@ console.log('Message sent:', response.messageId);`}
               <div>
                 <h3 className="font-semibold mb-2">Configure Webhooks</h3>
                 <p className="text-gray-600 mb-3">Set up webhooks to receive real-time events.</p>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20help%20configuring%20webhooks%20for%20my%20Zifty%20integration." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20help%20configuring%20webhooks%20for%20my%20Zifty%20integration." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">
                   Learn More →
                 </a>
               </div>
               <div>
                 <h3 className="font-semibold mb-2">Join Developer Community</h3>
                 <p className="text-gray-600 mb-3">Connect with other developers using Zifty.</p>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20join%20the%20Zifty%20developer%20community." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20join%20the%20Zifty%20developer%20community." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">
                   Join Now →
                 </a>
               </div>
@@ -196,7 +196,7 @@ console.log('Message sent:', response.messageId);`}
             <p className="text-gray-600 mb-6">
               Our support team is available to help you with any questions or issues.
             </p>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20help%20with%20getting%20started%20with%20Zifty." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20help%20with%20getting%20started%20with%20Zifty." target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
                 Contact Support
               </Button>

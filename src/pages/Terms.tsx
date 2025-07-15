@@ -117,7 +117,7 @@ const Terms: React.FC = () => {
               <p className="font-semibold mb-2">Zifty Legal Team</p>
               <p className="text-gray-600">Email: legal@zifty.ai</p>
               <p className="text-gray-600">
-                WhatsApp: <a href="https://wa.me/919999637444?text=Hi%2C%20I%20have%20a%20question%20about%20Zifty%27s%20Terms%20of%20Service." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">+91 9999637444</a>
+                WhatsApp: <a href="https://wa.me/919220504402?text=Hi%2C%20I%20have%20a%20question%20about%20Zifty%27s%20Terms%20of%20Service." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700">+91 9999637444</a>
               </p>
             </div>
 

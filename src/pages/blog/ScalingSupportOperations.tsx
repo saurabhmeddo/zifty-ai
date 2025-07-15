@@ -284,7 +284,7 @@ const ScalingSupportOperations: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Transform your support operations with AI that grows smarter as you grow bigger.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20scaling%20support%20operations%20and%20want%20to%20implement%20AI%20to%20handle%20our%20growing%20customer%20base%20efficiently." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20scaling%20support%20operations%20and%20want%20to%20implement%20AI%20to%20handle%20our%20growing%20customer%20base%20efficiently." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Start Scaling Smarter
                 </Button>

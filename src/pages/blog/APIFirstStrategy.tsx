@@ -308,7 +308,7 @@ api:
               <p className="text-gray-700 mb-6">
                 Implement an API-first strategy with Zifty's robust, developer-friendly communication APIs.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20API-first%20strategy%20and%20want%20to%20build%20scalable%20communication%20infrastructure%20for%20our%20platform." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20API-first%20strategy%20and%20want%20to%20build%20scalable%20communication%20infrastructure%20for%20our%20platform." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-orange-600 hover:bg-orange-700">
                   Explore Our API Platform
                 </Button>

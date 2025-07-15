@@ -96,7 +96,7 @@ const Documentation: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 Official SDKs for Python, JavaScript, Java, and more to accelerate development.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%20SDKs%20and%20libraries%20for%20my%20development%20project." target="_blank" rel="noopener noreferrer" className="text-yellow-600 hover:text-yellow-700 font-medium flex items-center">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20Zifty%20SDKs%20and%20libraries%20for%20my%20development%20project." target="_blank" rel="noopener noreferrer" className="text-yellow-600 hover:text-yellow-700 font-medium flex items-center">
                 Download SDKs
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -117,7 +117,7 @@ const Documentation: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 Configure webhooks to receive real-time updates about events in your Zifty account.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20help%20setting%20up%20webhooks%20for%20my%20Zifty%20integration." target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700 font-medium flex items-center">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20help%20setting%20up%20webhooks%20for%20my%20Zifty%20integration." target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700 font-medium flex items-center">
                 Setup Webhooks
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -141,7 +141,7 @@ const Documentation: React.FC = () => {
               <p className="text-gray-600 mb-4">
                 Learn best practices for implementing AI communication to maximize effectiveness.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20about%20best%20practices%20for%20implementing%20Zifty%20AI%20communication." target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-700 font-medium flex items-center">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20about%20best%20practices%20for%20implementing%20Zifty%20AI%20communication." target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-700 font-medium flex items-center">
                 Learn More
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                   <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -193,7 +193,7 @@ const Documentation: React.FC = () => {
           <p className="text-xl mb-8">
             Our technical support team is here to help you with any questions or issues.
           </p>
-          <a href="https://wa.me/919999637444?text=Hi%2C%20I%20need%20technical%20support%20with%20Zifty%20documentation%20and%20implementation." target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919220504402?text=Hi%2C%20I%20need%20technical%20support%20with%20Zifty%20documentation%20and%20implementation." target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
               Contact Support
             </Button>

@@ -335,7 +335,7 @@ const ROIAICommunication: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Every business is unique. Let our ROI experts create a customized analysis showing your potential returns from AI communication.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20ROI%20article%20and%20would%20like%20a%20customized%20ROI%20analysis%20for%20my%20business." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20ROI%20article%20and%20would%20like%20a%20customized%20ROI%20analysis%20for%20my%20business." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Get Your ROI Analysis
                 </Button>

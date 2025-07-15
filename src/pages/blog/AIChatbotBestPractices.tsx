@@ -275,7 +275,7 @@ const AIChatbotBestPractices: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty's AI experts help you design and implement chatbots that drive real business results.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20AI%20chatbot%20best%20practices%20guide%20and%20would%20like%20help%20building%20an%20effective%20chatbot." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20AI%20chatbot%20best%20practices%20guide%20and%20would%20like%20help%20building%20an%20effective%20chatbot." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-purple-600 hover:bg-purple-700">
                   Get Expert Chatbot Consultation
                 </Button>

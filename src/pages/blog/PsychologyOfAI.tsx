@@ -264,7 +264,7 @@ const PsychologyOfAI: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty help you build AI-powered support that truly connects with your customers.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20the%20psychology%20of%20AI%20customer%20service%20and%20would%20like%20to%20create%20more%20emotionally%20intelligent%20support%20experiences." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20the%20psychology%20of%20AI%20customer%20service%20and%20would%20like%20to%20create%20more%20emotionally%20intelligent%20support%20experiences." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-purple-600 hover:bg-purple-700">
                   Design Emotionally Intelligent AI
                 </Button>

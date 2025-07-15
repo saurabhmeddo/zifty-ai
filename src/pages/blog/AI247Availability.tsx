@@ -302,7 +302,7 @@ const AI247Availability: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Join forward-thinking companies using Zifty to deliver exceptional support 24/7/365.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20about%2024%2F7%20AI%20support%20and%20want%20to%20ensure%20my%20customers%20always%20have%20help%20available." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20about%2024%2F7%20AI%20support%20and%20want%20to%20ensure%20my%20customers%20always%20have%20help%20available." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-purple-600 hover:bg-purple-700">
                   Go 24/7 with AI Support
                 </Button>

@@ -326,7 +326,7 @@ async function sendWhatsAppMessage(phoneNumber, message, templateName) {
               <p className="text-gray-700 mb-6">
                 Let Zifty's integration experts help you build a seamless WhatsApp-CRM connection that drives real results.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20guide%20on%20WhatsApp%20CRM%20integration%20and%20need%20help%20implementing%20it%20for%20my%20business." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20guide%20on%20WhatsApp%20CRM%20integration%20and%20need%20help%20implementing%20it%20for%20my%20business." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-green-600 hover:bg-green-700">
                   Get Integration Support
                 </Button>

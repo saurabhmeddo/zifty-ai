@@ -249,7 +249,7 @@ const OmnichannelStrategy: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty help you create a unified communication experience that delights customers and drives business results.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20omnichannel%20strategy%20guide%20and%20would%20like%20help%20implementing%20a%20unified%20communication%20strategy." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20omnichannel%20strategy%20guide%20and%20would%20like%20help%20implementing%20a%20unified%20communication%20strategy." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Get Omnichannel Strategy Consultation
                 </Button>

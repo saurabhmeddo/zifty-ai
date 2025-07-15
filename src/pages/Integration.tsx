@@ -524,7 +524,7 @@ syncCustomerData().catch(console.error);`}
                 <p className="text-gray-600 mb-6">
                   Test your integration in a safe environment before going live. Our developer sandbox provides a full replica of the Zifty API with test data.
                 </p>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20sandbox%20API%20access%20for%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20request%20sandbox%20API%20access%20for%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
                   <Button className="bg-blue-600 hover:bg-blue-700">
                     Request Sandbox Access
                   </Button>
@@ -650,7 +650,7 @@ syncCustomerData().catch(console.error);`}
                   </div>
                 </div>
               </div>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20the%20integration%20team%20about%20implementing%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20speak%20with%20the%20integration%20team%20about%20implementing%20Zifty.%20I%27m%20from%20the%20integration%20page." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Contact Integration Team
                 </Button>

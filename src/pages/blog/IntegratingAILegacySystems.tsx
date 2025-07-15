@@ -216,7 +216,7 @@ const IntegratingAILegacySystems: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Our team of experts has successfully integrated AI with legacy systems across industries. Let us help you modernize without disruption.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20integrating%20AI%20with%20legacy%20systems%20and%20need%20help%20with%20my%20integration%20project." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20integrating%20AI%20with%20legacy%20systems%20and%20need%20help%20with%20my%20integration%20project." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Get Integration Support
                 </Button>

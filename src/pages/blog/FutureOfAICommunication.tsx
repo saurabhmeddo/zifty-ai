@@ -199,7 +199,7 @@ const FutureOfAICommunication: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Join thousands of forward-thinking businesses already leveraging AI to transform their customer communication.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20the%20future%20of%20AI%20communication%20and%20would%20like%20to%20learn%20more%20about%20Zifty." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20the%20future%20of%20AI%20communication%20and%20would%20like%20to%20learn%20more%20about%20Zifty." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Start Your AI Journey
                 </Button>

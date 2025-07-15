@@ -104,7 +104,7 @@ const About: React.FC = () => {
             Whether you're a customer, partner, or looking to join our team, we'd love to hear from you.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20partnering%20with%20Zifty." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20partnering%20with%20Zifty." target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
                 Become a Partner
               </Button>

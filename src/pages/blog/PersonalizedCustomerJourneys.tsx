@@ -280,7 +280,7 @@ const PersonalizedCustomerJourneys: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Transform every customer interaction into a personalized experience with Zifty's AI journey orchestration.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20personalized%20customer%20journeys%20and%20want%20to%20implement%20AI-powered%20personalization%20for%20our%20customers." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20personalized%20customer%20journeys%20and%20want%20to%20implement%20AI-powered%20personalization%20for%20our%20customers." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-purple-600 hover:bg-purple-700">
                   Start Personalizing Journeys
                 </Button>

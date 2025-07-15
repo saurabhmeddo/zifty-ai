@@ -116,7 +116,7 @@ const Careers: React.FC = () => {
               <p className="text-gray-600 mb-8">
                 Join our talent network to be the first to know when new opportunities become available.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20join%20Zifty%27s%20talent%20network%20for%20future%20opportunities." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20join%20Zifty%27s%20talent%20network%20for%20future%20opportunities." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Join Our Talent Network
                 </Button>
@@ -162,7 +162,7 @@ const Careers: React.FC = () => {
           <p className="text-xl mb-8">
             Follow us to learn more about life at Zifty and be the first to know about new opportunities.
           </p>
-          <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20careers%20at%20Zifty." target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20careers%20at%20Zifty." target="_blank" rel="noopener noreferrer">
             <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
               Get in Touch
             </Button>

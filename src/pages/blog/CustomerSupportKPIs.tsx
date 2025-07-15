@@ -285,7 +285,7 @@ const CustomerSupportKPIs: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Implement KPIs that matter with Zifty's advanced analytics and AI-powered insights.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20customer%20support%20KPIs%20and%20want%20to%20implement%20better%20metrics%20for%20our%20AI-powered%20support." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20customer%20support%20KPIs%20and%20want%20to%20implement%20better%20metrics%20for%20our%20AI-powered%20support." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Upgrade Your KPI Strategy
                 </Button>

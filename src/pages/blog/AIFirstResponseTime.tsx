@@ -241,7 +241,7 @@ const AIFirstResponseTime: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Join leading brands using Zifty to achieve sub-30-second response times at scale.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20first%20response%20time%20and%20want%20to%20implement%20instant%20AI%20support%20for%20my%20business." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20first%20response%20time%20and%20want%20to%20implement%20instant%20AI%20support%20for%20my%20business." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Achieve Instant Response Times
                 </Button>

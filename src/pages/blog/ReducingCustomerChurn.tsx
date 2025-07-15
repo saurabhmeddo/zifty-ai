@@ -212,7 +212,7 @@ const ReducingCustomerChurn: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty's AI help you identify at-risk customers and engage them before it's too late.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20reducing%20customer%20churn%20with%20AI%20and%20would%20like%20to%20implement%20proactive%20engagement%20strategies." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20reducing%20customer%20churn%20with%20AI%20and%20would%20like%20to%20implement%20proactive%20engagement%20strategies." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-green-600 hover:bg-green-700">
                   Start Reducing Churn Today
                 </Button>

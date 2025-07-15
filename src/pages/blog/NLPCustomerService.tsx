@@ -266,7 +266,7 @@ const NLPCustomerService: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Implement cutting-edge NLP that understands your customers as well as your best agents do.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20NLP%20in%20customer%20service%20and%20want%20to%20implement%20advanced%20language%20understanding%20for%20my%20support%20system." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20NLP%20in%20customer%20service%20and%20want%20to%20implement%20advanced%20language%20understanding%20for%20my%20support%20system." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-purple-600 hover:bg-purple-700">
                   Explore NLP Solutions
                 </Button>

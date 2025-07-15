@@ -99,7 +99,7 @@ const Interfaces: React.FC = () => {
                 </div>
               </div>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20WhatsApp%20Integration%20for%20my%20business.%20Can%20you%20provide%20more%20details%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20WhatsApp%20Integration%20for%20my%20business.%20Can%20you%20provide%20more%20details%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -184,7 +184,7 @@ const Interfaces: React.FC = () => {
                 </div>
               </div>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20In-App%20Chat%20functionality.%20Can%20you%20provide%20more%20information%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20In-App%20Chat%20functionality.%20Can%20you%20provide%20more%20information%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -268,7 +268,7 @@ const Interfaces: React.FC = () => {
                 </div>
               </div>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Website%20Chat%20widget.%20Can%20you%20share%20more%20details%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Website%20Chat%20widget.%20Can%20you%20share%20more%20details%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -351,7 +351,7 @@ const Interfaces: React.FC = () => {
                 </div>
               </div>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Voice%20Communication%20features.%20Can%20you%20provide%20more%20information%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Voice%20Communication%20features.%20Can%20you%20provide%20more%20information%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -421,7 +421,7 @@ const Interfaces: React.FC = () => {
                 </li>
               </ul>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Inbound%20Call%20handling%20capabilities.%20Can%20you%20share%20more%20details%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Inbound%20Call%20handling%20capabilities.%20Can%20you%20share%20more%20details%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -477,7 +477,7 @@ const Interfaces: React.FC = () => {
                 </li>
               </ul>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Outbound%20Call%20solutions.%20Can%20you%20provide%20more%20information%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Outbound%20Call%20solutions.%20Can%20you%20provide%20more%20information%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -550,7 +550,7 @@ const Interfaces: React.FC = () => {
                 </div>
               </div>
               <a 
-                href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Omnichannel%20Capabilities.%20Can%20you%20share%20more%20details%3F"
+                href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20Zifty%27s%20Omnichannel%20Capabilities.%20Can%20you%20share%20more%20details%3F"
                 target="_blank"
                 rel="noopener noreferrer"
               >

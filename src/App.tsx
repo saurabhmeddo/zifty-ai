@@ -75,7 +75,7 @@ const App: React.FC = () => {
                 <Link to="/docs" className="text-gray-700 hover:text-blue-600 transition-colors">Documentation</Link>
               </nav>
               <div className="hidden md:flex items-center space-x-4">
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20website%20header." target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors">Get Started</a>
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20website%20header." target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors">Get Started</a>
               </div>
               <div className="md:hidden">
                 <button 
@@ -103,7 +103,7 @@ const App: React.FC = () => {
               <Link to="/pricing" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Pricing</Link>
               <Link to="/blog" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Blog</Link>
               <Link to="/docs" className="block text-gray-700 hover:text-blue-600 transition-colors py-2" onClick={() => setMobileMenuOpen(false)}>Documentation</Link>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20mobile%20menu." target="_blank" rel="noopener noreferrer" className="block px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors text-center mt-4" onClick={() => setMobileMenuOpen(false)}>Get Started</a>
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27m%20interested%20in%20Zifty%20AI%20Communication%20Platform.%20I%20clicked%20Get%20Started%20from%20the%20mobile%20menu." target="_blank" rel="noopener noreferrer" className="block px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors text-center mt-4" onClick={() => setMobileMenuOpen(false)}>Get Started</a>
             </div>
           </div>
         </header>
@@ -215,7 +215,7 @@ const App: React.FC = () => {
                 <ul className="space-y-2">
                   <li><Link to="/about" className="text-gray-400 hover:text-white transition-colors">About Us</Link></li>
                   <li><Link to="/careers" className="text-gray-400 hover:text-white transition-colors">Careers</Link></li>
-                  <li><a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20get%20in%20touch%20with%20Zifty.%20I%20clicked%20Contact%20from%20the%20footer." target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                  <li><a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20get%20in%20touch%20with%20Zifty.%20I%20clicked%20Contact%20from%20the%20footer." target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Contact</a></li>
                   <li><Link to="/privacy-policy" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</Link></li>
                 </ul>
               </div>

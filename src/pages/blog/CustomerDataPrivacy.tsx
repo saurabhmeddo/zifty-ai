@@ -298,7 +298,7 @@ const CustomerDataPrivacy: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty's security experts help you implement enterprise-grade privacy protection for your AI communication systems.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20article%20on%20data%20privacy%20in%20AI%20communications%20and%20need%20help%20ensuring%20our%20systems%20are%20compliant." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20article%20on%20data%20privacy%20in%20AI%20communications%20and%20need%20help%20ensuring%20our%20systems%20are%20compliant." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-red-600 hover:bg-red-700">
                   Get Privacy Compliance Assessment
                 </Button>

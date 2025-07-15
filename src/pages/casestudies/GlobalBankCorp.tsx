@@ -241,7 +241,7 @@ const GlobalBankCorpCaseStudy: React.FC = () => {
           <p className="text-xl mb-8">
             See how Zifty can help you achieve similar results for your business.
           </p>
-          <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20the%20Global%20Bank%20Corp%20case%20study%20and%20would%20like%20to%20discuss%20how%20Zifty%20can%20help%20transform%20our%20customer%20service." target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20the%20Global%20Bank%20Corp%20case%20study%20and%20would%20like%20to%20discuss%20how%20Zifty%20can%20help%20transform%20our%20customer%20service." target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
               Schedule a Consultation
             </Button>

@@ -152,7 +152,7 @@ const CustomerSupportAI: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Join thousands of businesses using Zifty to deliver exceptional customer experiences with AI-powered communication.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20blog%20post%20about%20AI%20customer%20support%20success%20stories%20and%20would%20like%20to%20learn%20more%20about%20Zifty." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20blog%20post%20about%20AI%20customer%20support%20success%20stories%20and%20would%20like%20to%20learn%20more%20about%20Zifty." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-blue-600 hover:bg-blue-700">
                   Start Your AI Journey
                 </Button>
@@ -197,7 +197,7 @@ const CustomerSupportAI: React.FC = () => {
               </div>
             </Link>
 
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20read%20more%20articles%20about%20AI%20communication%20best%20practices." target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20read%20more%20articles%20about%20AI%20communication%20best%20practices." target="_blank" rel="noopener noreferrer" className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow">
               <div className="h-48 bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <circle cx="12" cy="12" r="10"></circle>

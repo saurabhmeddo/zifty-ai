@@ -171,7 +171,7 @@ const CaseStudies: React.FC = () => {
                     <p className="text-sm text-gray-500">Less admin work</p>
                   </div>
                 </div>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Metro%20University%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Metro%20University%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
                   Read Case Study
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -202,7 +202,7 @@ const CaseStudies: React.FC = () => {
                     <p className="text-sm text-gray-500">More direct bookings</p>
                   </div>
                 </div>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Luxury%20Hotels%20Group%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Luxury%20Hotels%20Group%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
                   Read Case Study
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -233,7 +233,7 @@ const CaseStudies: React.FC = () => {
                     <p className="text-sm text-gray-500">Avg response time</p>
                   </div>
                 </div>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Property%20Pro%20Realty%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20Property%20Pro%20Realty%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
                   Read Case Study
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -264,7 +264,7 @@ const CaseStudies: React.FC = () => {
                     <p className="text-sm text-gray-500">Better retention</p>
                   </div>
                 </div>
-                <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20SecureLife%20Insurance%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
+                <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20learn%20more%20about%20the%20SecureLife%20Insurance%20case%20study." target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium flex items-center">
                   Read Case Study
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="ml-2">
                     <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -285,12 +285,12 @@ const CaseStudies: React.FC = () => {
             Join thousands of businesses transforming their customer communication with Zifty.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20discuss%20how%20Zifty%20can%20help%20my%20business." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20discuss%20how%20Zifty%20can%20help%20my%20business." target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
                 Start Your Journey
               </Button>
             </a>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20request%20a%20custom%20demo%20for%20my%20industry." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20request%20a%20custom%20demo%20for%20my%20industry." target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
                 Request Industry Demo
               </Button>

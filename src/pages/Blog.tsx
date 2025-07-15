@@ -387,7 +387,7 @@ const Blog: React.FC = () => {
               Stay updated with the latest insights, trends, and best practices in AI communication and customer experience.
             </p>
             <div className="max-w-lg mx-auto">
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20subscribe%20to%20the%20Zifty%20newsletter%20to%20stay%20updated%20with%20AI%20communication%20insights." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20subscribe%20to%20the%20Zifty%20newsletter%20to%20stay%20updated%20with%20AI%20communication%20insights." target="_blank" rel="noopener noreferrer">
                 <Button variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600">
                   Subscribe via WhatsApp
                 </Button>

@@ -331,7 +331,7 @@ const ShopSmartCaseStudy: React.FC = () => {
           <p className="text-xl mb-8">
             Join the AI revolution and give your customers the personalized shopping experience they deserve.
           </p>
-          <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20the%20ShopSmart%20case%20study%20and%20want%20to%20increase%20our%20e-commerce%20conversions%20with%20Zifty." target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20the%20ShopSmart%20case%20study%20and%20want%20to%20increase%20our%20e-commerce%20conversions%20with%20Zifty." target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-white text-purple-600 hover:bg-gray-100">
               Start Your Success Story
             </Button>

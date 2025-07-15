@@ -236,7 +236,7 @@ const WhatsAppBusinessAPI: React.FC = () => {
               <p className="text-gray-700 mb-6">
                 Let Zifty handle the complexity while you focus on engaging your customers.
               </p>
-              <a href="https://wa.me/919999637444?text=Hi%2C%20I%20read%20your%20WhatsApp%20Business%20API%20guide%20and%20would%20like%20to%20implement%20it%20for%20my%20enterprise." target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919220504402?text=Hi%2C%20I%20read%20your%20WhatsApp%20Business%20API%20guide%20and%20would%20like%20to%20implement%20it%20for%20my%20enterprise." target="_blank" rel="noopener noreferrer">
                 <Button className="bg-green-600 hover:bg-green-700">
                   Start Your WhatsApp Integration
                 </Button>

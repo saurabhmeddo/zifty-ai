@@ -496,7 +496,7 @@ const AllArticles: React.FC = () => {
             <p className="text-lg mb-8 max-w-2xl mx-auto">
               Get the latest insights and best practices in AI communication delivered to your inbox.
             </p>
-            <a href="https://wa.me/919999637444?text=Hi%2C%20I%27d%20like%20to%20subscribe%20to%20the%20Zifty%20newsletter." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/919220504402?text=Hi%2C%20I%27d%20like%20to%20subscribe%20to%20the%20Zifty%20newsletter." target="_blank" rel="noopener noreferrer">
               <Button className="bg-white text-blue-600 hover:bg-gray-100">
                 Subscribe via WhatsApp
               </Button>
