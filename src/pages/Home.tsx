@@ -31,7 +31,7 @@ const Home: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 shadow-lg">
                 <img 
-                  src="/home page banner.png" 
+                  src="/home-page-banner.jpg" 
                   alt="Zifty AI Communication Platform" 
                   className="w-full h-auto"
                 />
